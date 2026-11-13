@@ -2,9 +2,10 @@
 
 A small React app for picking seats on a flight. You choose how many people are travelling, give each one a seat (and optionally a meal), and watch the total update as you go. Built with React 18 and Vite, no backend, all data is mocked.
 
+
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://starlit-dieffenbachia-5781df.netlify.app)
+**Live Deployed Link:** [Expense Sharing System](https://starlit-dieffenbachia-5781df.netlify.app)
 
 ## Running it
 
